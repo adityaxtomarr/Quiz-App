@@ -751,7 +751,7 @@ const onElapsed = () => {
       </main>
 
       <footer className="max-w-3xl mx-auto px-4 pb-10 pt-4 text-xs text-neutral-500">
-        Built By <b>Om Ji Dubey</b> with React Hooks • Tailwind • Framer Motion • LocalStorage
+        Built By <b>Aditya Singh</b> with React Hooks • Tailwind • Framer Motion • LocalStorage
       </footer>
     </div>
   );
