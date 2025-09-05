@@ -26,8 +26,8 @@ Perfect for practicing web development concepts and showcasing frontend skills.
 ## 🖼️ Screenshots
 
 
-![Home Screen](./Screenshots/Home%20Screen.png)  
-![Quiz Question](./Screenshots/Quiz%20Page.png)  
+![Home Screen](./Screenshots/Home%20Page.png.png)  
+![Quiz Question](./Screenshots/Quiz%20Page.png.png)  
 ![Results Page](./Screenshots/Result%20Page.png)  
 
 ---
